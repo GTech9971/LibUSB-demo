@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hiapi-demo", "hiapi-demo\hiapi-demo.csproj", "{2BC65091-8D91-421E-94CC-62FBDE675662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC65091-8D91-421E-94CC-62FBDE675662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC65091-8D91-421E-94CC-62FBDE675662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC65091-8D91-421E-94CC-62FBDE675662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC65091-8D91-421E-94CC-62FBDE675662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E69DA38-7CCC-4E1D-AB32-127A3CE2A375}
+	EndGlobalSection
+EndGlobal

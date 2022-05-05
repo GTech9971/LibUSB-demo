@@ -1,0 +1,15 @@
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\bin\Debug\hiapi-demo.exe.config
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\bin\Debug\hiapi-demo.exe
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\bin\Debug\hiapi-demo.pdb
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\bin\Debug\HidApiAdapter.dll
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi-demo.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi-demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi_demo.Form1.resources
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi_demo.Properties.Resources.resources
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi-demo.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi-demo.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi-demo.csproj.CopyComplete
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi-demo.exe
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\obj\Debug\hiapi-demo.pdb
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\bin\Debug\hidapi32.dll
+C:\Users\georg\source\repos\hiapi-demo\hiapi-demo\bin\Debug\hidapi64.dll
